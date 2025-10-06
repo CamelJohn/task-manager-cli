@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Don't buy grocerices",
+      "status": "todo",
+      "createdAt": "2025-10-05T13:49:57.942Z",
+      "updatedAt": "Sun Oct 05 2025"
+    },
+    {
+      "id": 7,
+      "description": "test",
+      "createdAt": "Sun Oct 05 2025",
+      "status": "done",
+      "updatedAt": "Sun Oct 05 2025"
+    },
+    {
+      "id": 8,
+      "description": "test",
+      "createdAt": "Sun Oct 05 2025",
+      "status": "in-progress",
+      "updatedAt": "Sun Oct 05 2025"
+    }
+  ],
+  "total": 0
+}
